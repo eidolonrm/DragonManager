@@ -8,5 +8,5 @@ npm stop
 rm -rf node_modules
 npm install
 npm prune
-cp .env_digitalocean .env
+cp .env_dragonmanager .env
 npm start

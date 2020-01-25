@@ -211,6 +211,6 @@ enableWarBonusFlames,1,,
 enablePrimarchGloryTransfer,1,,
 enableBreederAlternativeRewards,0,level50,
 enableUnequipDragonRune,1,,
-enableTowerTransformation,0,level20,
-enableTowerMerge,0,level20,
-enableRiderIntroAnimation,1,,!@#lddoojdjfnfipnbk
+enableTowerTransformation,1,level20,
+enableTowerMerge,1,level20,
+enableRiderIntroAnimation,1,,!@#nldoflnicckgcinc

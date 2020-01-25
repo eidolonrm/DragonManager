@@ -308,12 +308,12 @@ chompSpell,chomp.m4v,0,CHOMP!,CHOMP!,Heavily damages target tower.,icon_chomp.pn
 whiteoutSpell,flashFreeze.m4v,0,WHITEOUT,WHITEOUT,Damages and freezes nearby towers. Towers take increased damage after being frozen.,icon_whiteOut.png,
 hibernateSpell,revitalize.m4v,0,HIBERNATE,HIBERNATE,Dragon restores a massive amount of health over a long duration. Can only be used once.,icon_hibernate.png,
 iceLanceSpell,harrowingBolt.m4v,0,ICE LANCE,ICE LANCE,Fires a projectile that destroys an automatically chosen tower.,icon_iceLance.png,
-threeGiftsSpell,threeGifts.m4v,0,THREE GIFTS,THREE GIFTS,"Marks a target tower. When marked tower is destroyed, gain health and rage. Can be used three times.",icon_threeGifts.png,
-holidayHelperSpell,holidayHelper.m4v,0,HOLIDAY HELPER,HOLIDAY HELPER,Summons a flamethrower-bearing friend to fight for you.,icon_holidayHelper.png,
-fireLanceSpell,flameTorrent.m4v,0,Flame Torrent,Flame Torrent,Passive: Breath attack that ramps up damage on sustained attack up to cap.,icon_flameTorrent.png,
+threeGiftsSpell,apexPredator.m4v,0,THREE GIFTS,THREE GIFTS,"Marks a target tower. When marked tower is destroyed, gain health and rage. Can be used three times.",icon_threeGifts.png,
+holidayHelperSpell,summonSwarm.m4v,0,HOLIDAY HELPER,HOLIDAY HELPER,Summons a flamethrower-bearing friend to fight for you.,icon_holidayHelper.png,
+fireLanceSpell,flameTorrent.m4v,0,Flame Torrent,Flame Torrent,Passive: Breath attack that ramps up damage on sustained attacked up to cap.,icon_flameTorrent.png,
 howlOfTheUnderworldSpell,howlOfTheUnderworld.m4v,0,Howl of the Underworld,Howl of the Underworld,"Alternates between an area-of-effect tower debuff, health stealing, and single target damage.",icon_howlOfTheUnderworld.png,
 petrifyingGazeSpell,petrifyingGaze.m4v,0,Petrifying Gaze,Petrifying Gaze,Freezes all towers within range. Towers take additional damage after being frozen.,icon_petrifyingGaze.png,
 gorgonsGuiseSpell,gorgonsGuise.m4v,0,Gorgon's Guise,Gorgon's Guise,"Dragon cloaks briefly. Upon uncloaking, deals increased breath damage.",icon_gorgonsGuise.png,
 smotherSpell,smother.m4v,0,Smother,Smother,Disables towers in target area until they take damage.,icon_smother.png,
 markOfHungerSpell,markOfHunger.m4v,0,Mark of Hunger,Mark of Hunger,Spreads heal marks across nearby towers,icon_markOfHunger.png,
-devourSpell,devour.m4v,0,Devour,Devour,Heavily damages target tower. Restores health on cast.,icon_devour.png,!@#eloebdibpepbfmbe
+devourSpell,devour.m4v,0,Devour,Devour,Heavily damages target tower. Restores health on cast.,icon_devour.png,!@#gkadlfahegnllkln

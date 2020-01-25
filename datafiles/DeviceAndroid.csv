@@ -9,8 +9,8 @@ PowerVR,0,PowerVR,gpu,.*PowerVR.*,poor,NO_DERIVATIVES,1,1,
 2013,1,Class of 2013,year,2013,medium,,1,1,
 2014,1,Class of 2014,year,2014,high,,1,1,
 2015,1,Class of 2015,year,2015,high,,1,1,
-Adreno320,2,Adreno 320,gpu,Adreno.*320,low,,1,1,
-Adreno330,2,Adreno 330,gpu,Adreno.*330,medium,,1,1,
+Adreno320,2,Adreno 320,gpu,Adreno.*320,low,NO_DERIVATIVES,1,1,
+Adreno330,2,Adreno 330,gpu,Adreno.*330,medium,NO_DERIVATIVES,1,1,
 Adreno420,2,Adreno 420,gpu,Adreno.*420,medium,,1,1,
 nexus5,3,Nexus 5,device,LGE NEXUS 5; hammerhead,low,,1,1,
 nexus9,3,Nexus 9,device,HTC NEXUS 9; flounder,low,,1,1,
@@ -41,4 +41,4 @@ Samsung Galaxy Tab 4,3,Samsung Galaxy Tab 4,device,SAMSUNG SM-T533; matissevewif
 Samsung Galaxy S V,3,Samsung Galaxy S V,device,SAMSUNG SM-G900F;klte,poor,,1,1,
 Docomo SH-05G,3,Docomo SH-05G,device,SHARP SH-05G;SH-05G,low,,1,1,
 Docomo SH-03G,3,Docomo SH-03G,device,SHARP SH-03G;SH-03G,low,,1,1,
-Sony Xperia Z5,3,Sony Xperia Z5,device,SONY E6653; E6653,medium,,1,1,!@#ehnlohnkfhffcdak
+Sony Xperia Z5,3,Sony Xperia Z5,device,SONY E6653; E6653,medium,,1,1,!@#ipchjglhamomjpaj

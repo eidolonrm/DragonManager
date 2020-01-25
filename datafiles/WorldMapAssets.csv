@@ -791,6 +791,7 @@ wm_hexes.frag,0,1,1,
 wm_hexes.vert,0,1,1,
 wm_ownership.frag,0,1,1,
 wm_ownership.vert,0,1,1,
+wm_ownership_block.frag,0,1,1,
 wm_ownership_blur.frag,0,1,1,
 wm_ownership_borders.frag,0,1,1,
 wm_ownership_team_influence.frag,0,1,1,
@@ -813,4 +814,4 @@ wm_shared_material.dat,0,1,1,
 wm_standingsprite.vert,0,1,1,
 wm_worldsend_material.dat,0,1,1,
 world.js,0,1,1,
-world_team.js,0,1,1,!@#oconkokggpdkjlja
+world_team.js,0,1,1,!@#pacgpcohnbblmmmp
