@@ -31,6 +31,7 @@ radialDistanceForWingFlapSoundInner,300,
 radialDistanceForWingFlapSoundOuter,500,
 dragonEggCost,breedingToken:20,
 dragonEggGoldCost,goldBreedingToken:20,
+instantBreedRubyRatio,3.75,
 dragonEggDistributionForUndefinedDistribution,parent:40|self:60,
 dragonEggPremiumPurchaseAmount,20,
 dragonEggPremiumPurchaseCost,1500,
@@ -49,4 +50,4 @@ dragonHealExpediteCostMultiplier,0.75,
 initialBreedingCombination,T1C1WFdragon|T1C1SEdragon,
 shrineDragonColor,252~232~79,
 upgradeLockedLabelText,Finish Requirements First,
-seasonalBuffPercentages,50|95,!@#ccbpagiecdjkgopf
+seasonalBuffPercentages,50|95,!@#ilfmkndphlifnoki

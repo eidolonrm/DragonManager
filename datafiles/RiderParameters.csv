@@ -34,7 +34,7 @@ riderNotEnoughXP,,You do not have enough glory to train your Rider. Earn glory t
 riderHireServerError,,Disconnect during Rider hiring. You did not lose your %@. Please try again later.,
 riderHireWaiting,,You are hiring a rider.. Please wait..,
 riderHireButtonText,,Hire %@,
-riderHireCongratulationText,,Congratulations! You have hired the %@ Rider! Name your Rider - each of your Riders should have a different name.,
+riderHireCongratulationText,,Congratulations! You have hired the %@ Rider! Name your Rider - each of your Riders should have a different name. (Please use alphanumeric characters),
 riderDisabledHireButtonText,,Hire Random Rider,
 riderUnbondMessageUnequipGear,,Are you sure you want to start bonding %@ to %@? This will:\n,
 riderUnbondMessageUnbondDragonWithRider,,Undo the bond between %@ and its current rider %@.,
@@ -57,4 +57,4 @@ riderSkillPointMessageUpgrade,,Upgrade Rider To Gain More Skill Points.,
 riderSkillPointMessageExpert,,There's No More Leveling To Gain Skill Points.,
 riderMissionZeroStarIconFilename,transparent4x4.png,,
 swapGoldWithCurrencyTitle,,Buy more glory,
-swapGoldWithCurrencyText,,You need another %ld glory to train this rider. Would you like to spend %ld %@ to get what you're missing?,!@#nnhincpdpdknlfpd
+swapGoldWithCurrencyText,,You need another %ld glory to train this rider. Would you like to spend %ld %@ to get what you're missing?,!@#alndllfonbacfjfh

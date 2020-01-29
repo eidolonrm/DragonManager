@@ -1023,7 +1023,7 @@ fight_pits_prep,,energyPack:14,,,,,innerFire01:14|fullHeal:14,,,,,,,,,,,
 summer_blackblood_pack,,summerflareSigil:500|breedingToken:300,,,,,expediteConsumable4:2,,,,,,,,,,,
 summer_atlantis_pack,,summerflareSigil:2500|breedingToken:1500,,,,,expediteConsumable4:10,,,,,,,,,,,
 blossom_into_spring_pack,,springblossomSigil:500|chest0:10|chest2:10|energyPack:1,,,,,innerFire01:6|fullHeal:5,,,,,,,,,,,
-withermoon_pack,,ruby:3000|chest0:10|chest2:15|energyPack:4,,,,,innerFire01:6|fullHeal:15,,,,,,,,,,,
+coldblood_pack,,frostwreathSigil:500|chest0:8|chest2:5,,,,,lumberConsumable2:3|fullHeal:5|xpPotionConsumable3:3,,,,,,,,,,,
 crm_test_pack1,,ruby:500,,,,,expediteConsumable4:6|lumberConsumable2:1,,,,,,,,,,,
 crm_test_pack1_alternate,,ruby:500|breedingToken:1750,,,,,foodConsumable2:1,,,,,,,,,,,
 crm_test_pack2,,ruby:12500|breedingToken:43500,,,,,foodConsumable2:25,,,,,,,,,,,
@@ -2755,4 +2755,5 @@ skill-T5-344-Dragon-HPClassSorcerer_Reward,,,,,,,,,,,skill-T5-344-Dragon-HPClass
 skill-T5-345-Dragon-HPClassWarrior_Reward,,,,,,,,,,,skill-T5-345-Dragon-HPClassWarrior:1,,,,,,,
 skill-T4-346-Dragon-HunterAmmo_Reward,,,,,,,,,,,skill-T4-346-Dragon-HunterAmmo:1,,,,,,,
 skill-T6-347-Dragon-RageModifier_Reward,,,,,,,,,,,skill-T6-347-Dragon-RageModifier:1,,,,,,,
-skill-T4-348-Dragon-HPClassWarrior_Reward,,,,,,,,,,,skill-T4-348-Dragon-HPClassWarrior:1,,,,,,,!@#oappfokhcbfcplgh
+skill-T4-348-Dragon-HPClassWarrior_Reward,,,,,,,,,,,skill-T4-348-Dragon-HPClassWarrior:1,,,,,,,
+holidayGifting_pack,,frostwreathSigil:500,,,,,,,,,,,,,,,,!@#kmjfikhakfiflhfo

@@ -49,4 +49,7 @@ stableDragonSwapMenu_sorcerers,Sorcerers,icon_class_small_sorcererUnselected.png
 stableDragonSwapMenu_invokers,Invokers,icon_class_small_invokerUnselected.png,icon_class_small_invoker.png,
 forgeMenu_consumableCraft,Forge,btn_nav_forge.png,btn_nav_forge_pressed.png,
 forgeMenu_gear,Gear,btn_nav_gear.png,btn_nav_gear_pressed.png,
-buildingTransformationMenu_transform,Transform,btn_nav_transform.png,btn_nav_transform_pressed.png,!@#jdcalojfeaciaech
+buildingTransformationMenu_transform,Transform,btn_nav_transform.png,btn_nav_transform_pressed.png,
+breedingMenu_discovery,Lineage,btn_nav_lineage.png,btn_nav_lineage_pressed.png,
+breedingMenu_crossbreeding,Breeding,btn_nav_breeding.png,btn_nav_breeding_pressed.png,
+breedingMenu_divine,Divine,btn_nav_divine.png,btn_nav_divine_pressed.png,!@#jedmeoelcoginlgd

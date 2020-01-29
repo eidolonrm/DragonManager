@@ -16,6 +16,7 @@ nexus5,3,Nexus 5,device,LGE NEXUS 5; hammerhead,low,,1,1,
 nexus9,3,Nexus 9,device,HTC NEXUS 9; flounder,low,,1,1,
 nexus5X,3,Nexus 5X,device,LGE NEXUS 5X; bullhead,low,,1,1,
 nexus6P,3,Nexus 6P,device,HUAWEI NEXUS 6P; angler,high,,1,1,
+nexus6,3,Nexus 6,device,MOTOROLA NEXUS 6; shamu,poor,,1,0,
 sonyD6603,3,SONY D6603; D6603,device,SONY D6603; D6603,low,,1,1,
 sonyD6653,3,SONY D6653; D6653,device,SONY D6653; D6653,low,,1,1,
 LG-VS985,3,LSE VS985 4G; g3,device,LSE VS985 4G; g3,medium,,1,1,
@@ -41,4 +42,4 @@ Samsung Galaxy Tab 4,3,Samsung Galaxy Tab 4,device,SAMSUNG SM-T533; matissevewif
 Samsung Galaxy S V,3,Samsung Galaxy S V,device,SAMSUNG SM-G900F;klte,poor,,1,1,
 Docomo SH-05G,3,Docomo SH-05G,device,SHARP SH-05G;SH-05G,low,,1,1,
 Docomo SH-03G,3,Docomo SH-03G,device,SHARP SH-03G;SH-03G,low,,1,1,
-Sony Xperia Z5,3,Sony Xperia Z5,device,SONY E6653; E6653,medium,,1,1,!@#ipchjglhamomjpaj
+Sony Xperia Z5,3,Sony Xperia Z5,device,SONY E6653; E6653,medium,,1,1,!@#idfhmbjlajajghhg
