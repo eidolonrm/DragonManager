@@ -24,7 +24,7 @@ function init() {
 
 function fetchRarities() {
   let runeRarities;
-  const raritydata = fs.readFileSync(path.join(__dirname, '../datafiles/RuneRarityDescription.csv'), {encoding: 'utf8'});
+  const raritydata = fs.readFileSync(path.join(__dirname, '../datafiles/RuneRarity.csv'), {encoding: 'utf8'});
   runeRarities = csvjson.toObject(raritydata, options);
   // remove first column, contains the column type
   runeRarities.shift();
