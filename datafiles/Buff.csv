@@ -56,6 +56,7 @@ resistAbilityIncreaseModifierKeyFormat_fire,fire,,,%+.1f%% Fire Turret Resistanc
 resistAbilityIncreaseModifierKeyFormat_flak,flak,,,%+.1f%% Dark Flak Tower Resistance,BuffOnDragon,Dark Flak Tower Resistance,1,
 resistAbilityIncreaseModifierKeyFormat_fireFlak,fireFlak,,,%+.1f%% Fire Flak Tower Resistance,BuffOnDragon,Fire Flak Tower Resistance,1,
 resistAbilityIncreaseModifierKeyFormat_iceFlak,iceFlak,,,%+.1f%% Ice Flak Tower Resistance,BuffOnDragon,Ice Flak Tower Resistance,1,
+resistAbilityIncreaseModifierKeyFormat_windFlak,windFlak,,,%+.1f%% Electro Flak Tower Resistance,BuffOnDragon,Electro Flak Tower Resistance,1,
 harvestBuildingProtectionModifier_hogFarm,,,hogFarm,%+.1f%% Sheep Farm Food Protection,BuildBuffOnBase,Sheep Farm Food Protection,0,
 harvestBuildingProtectionModifier_woodFarm,,,woodFarm,%+.1f%% Lumber Mill Wood Protection,BuildBuffOnBase,Lumber Mill Wood Protection,0,
 harvestBuildingCapacityModifier_hogFarm,,,hogFarm,%+.1f%% Sheep Farm Food Capacity,BuildBuffOnBase,Sheep Farm Food Capacity,0,
@@ -69,4 +70,4 @@ shipAttackHP,,,,%+.1f%% Attacking Ship HP,BuffOnDragon,Attacking Ship HP,0,
 dragonClassTotalAmmoIncreaseModifier_hunter,,hunter,,%+g Hunter Ammo Increase,BuffOnDragon,Increase Hunter Dragon Ammo,0,
 dragonRageGenerationModifier,,,,%+.1f%% Rage Generate Increase,BuffOnDragon,Increase Dragon Rage Generate Speed,0,
 buildingHPModifier_elementalFlakWind,,,elementalFlakWind,%+.1f%% Electro Flak Tower HP,BattleBuffOnBase,Electro Flak Tower HP,0,
-buildingAttackModifier_elementalFlakWind,,,elementalFlakWind,%+.1f%% Electro Flak Tower Attack,BattleBuffOnBase,Electro Flak Tower Attack,0,!@#bjaelfkdimcegjkm
+buildingAttackModifier_elementalFlakWind,,,elementalFlakWind,%+.1f%% Electro Flak Tower Attack,BattleBuffOnBase,Electro Flak Tower Attack,0,!@#bcgnjidlneoebmhn

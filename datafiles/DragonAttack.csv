@@ -245,4 +245,11 @@ E19Q4HolidayDragon_lockon,85,2,prj_drg_winterFoxSuper_lockon,,3,3,0,SwipeReticle
 SummonHolidayHelper_flamethrower,85,2,drg_holidayHelper_flame,,1,1,0.1,HoldToFire,38,Hold and drag flame,1,-39,1,21,dragonAttackFlamethrower,
 T15C4WFdragon_flamethrower,85,2,prj_drg_monsterWarrior_flame,,1,1,0.1,HoldToFire,38,Hold and drag flame,0,-39,0,21,dragonAttackFlamethrower,
 T15C4HIdragon_fireball,85,2,prj_drg_monsterHunter_fireball,,8,1,0.6,RapidFire,10,Tap to Fire,1,-39,1,21,dragonAttackFireball,
-T15C4SDdragon_lockon,85,2,prj_drg_monsterSorcerer_lockon,,3,3,0,SwipeReticleAttack,16,Swipe over Multiple Targets,1,-39,1,21,dragonAttackLockon,!@#iconmeofpipabgap
+T15C4SDdragon_lockon,85,2,prj_drg_monsterSorcerer_lockon,,3,3,0,SwipeReticleAttack,16,Swipe over Multiple Targets,1,-39,1,21,dragonAttackLockon,
+T16C3IWarriorDragon_flamethrower,85,2,prj_drg_winterYeti_flame,,1,1,0.1,HoldToFire,38,Hold and drag flame,1,-39,1,21,dragonAttackFlamethrower,
+T16C3WInvokerDragon_unisonCharge,85,2,prj_drg_voidLeech_fireball,,4,4,3,RapidFire,10,Tap to Fire,1,-39,1,21,dragonAttackFireball,
+T16C3DSorcererDragon_lockon,85,2,prj_drg_voidCrawler_lockon,,3,3,0,SwipeReticleAttack,16,Swipe over Multiple Targets,1,-39,1,21,dragonAttackLockon,
+T16C3FWarriorDragon_flamethrower,85,2,prj_drg_stoneThermal_flame,,1,1,0.1,HoldToFire,38,Hold and drag flame,1,-39,1,21,dragonAttackFlamethrower,
+T16C3IHunterDragon_fireball,85,2,prj_drg_seaJelly_fireball,,8,1,0.6,RapidFire,10,Tap to Fire,1,-39,1,21,dragonAttackFireball,
+T16C3ESorcererDragon_lockon,85,2,prj_drg_tundraCrystal_lockon,,3,3,0,SwipeReticleAttack,16,Swipe over Multiple Targets,1,-39,1,21,dragonAttackLockon,
+SummonDrone_flamethrower,85,2,prj_drg_summonDrone_flame,,1,1,0.1,HoldToFire,38,Hold and drag flame,1,-39,1,21,dragonAttackFlamethrower,!@#ahpfnbfmbamcmfca

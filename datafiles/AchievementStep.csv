@@ -2518,7 +2518,7 @@ serverOnlyPortraitAchievementDungeonFirstEventCorruptedCelestialT1Step,ServerOnl
 viewedBuildingMergeStep,ObjectTappedRequirement,1,building_merge_tab,,,,,,0,icon_attack_01.png,kyra,0,0,,,,
 serverOnlyPortraitSummit2019FemalePortraitT1Step,ServerOnlyAchievementRequirement,1,,,Summit 2019 Female Portrait,,,,0,icon_attack_01.png,kyra,0,0,,,,
 serverOnlyPortraitSummit2019MalePortraitT1Step,ServerOnlyAchievementRequirement,1,,,Summit 2019 Male Portrait,,,,0,icon_attack_01.png,kyra,0,0,,,,
-haveLegendaryT16DragonStep,HaveDragonsRequirement,1,PlaceholderDragon,,Have Bred a Legendary Dragon from an Upcoming Tier,,,,0,icon_attack_01.png,kyra,0,0,,,,
+haveLegendaryT16DragonStep,HaveDragonsRequirement,1,T16C3IWarriorDragon|T16C3WInvokerDragon|T16C3DSorcererDragon|T16C3FWarriorDragon|T16C3IHunterDragon|T16C3ESorcererDragon,,Breed a Legendary Dragon from Eldritch Tier,,,,0,icon_attack_01.png,kyra,0,0,,,,
 serverOnlyPortraitDragonTamerT1AStep,ServerOnlyAchievementRequirement,1,,,Dragon Tamer,,,,0,icon_attack_01.png,kyra,0,0,,,,
 serverOnlyPortraitDragonTamerT1BStep,ServerOnlyAchievementRequirement,1,,,Dragon Tamer,,,,0,icon_attack_01.png,kyra,0,0,,,,
 serverOnlyPortraitDragonTamerT2AStep,ServerOnlyAchievementRequirement,1,,,Dragon Tamer,,,,0,icon_attack_01.png,kyra,0,0,,,,
@@ -2571,4 +2571,4 @@ serverOnlyPortraitMackenzieT2AStep,ServerOnlyAchievementRequirement,1,,,Mackenzi
 serverOnlyPortraitMackenzieT2BStep,ServerOnlyAchievementRequirement,1,,,Mackenzie,,,,0,icon_attack_01.png,kyra,0,0,,,,
 serverOnlyPortraitMackenzieT3AStep,ServerOnlyAchievementRequirement,1,,,Mackenzie,,,,0,icon_attack_01.png,kyra,0,0,,,,
 serverOnlyPortraitMackenzieT3BStep,ServerOnlyAchievementRequirement,1,,,Mackenzie,,,,0,icon_attack_01.png,kyra,0,0,,,,
-serverOnlyPortraitMackenzieT4Step,ServerOnlyAchievementRequirement,1,,,Mackenzie,,,,0,icon_attack_01.png,kyra,0,0,,,,!@#ahjaebnkkgpobpgo
+serverOnlyPortraitMackenzieT4Step,ServerOnlyAchievementRequirement,1,,,Mackenzie,,,,0,icon_attack_01.png,kyra,0,0,,,,!@#knckcmemclmcjngb!@#afjbgijpcdnbodpc

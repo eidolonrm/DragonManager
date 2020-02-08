@@ -1844,8 +1844,8 @@ serverOnlyPortraitDragongasm,level06,serverOnlyPortraitDragongasmStep,,Won throu
 serverOnlyPortraitAncientsAscent,level06,serverOnlyPortraitAncientsAscentStep,,Won through the Great Contest,0,,,image_quest_03.png,,,0,,,,0,0,0,0,Won through the Great Contest,,,,,,
 newYearDragonBreed,level06,newYearDragonStep,,,0,,,image_quest_03.png,,,0,,,,0,0,0,1,,,,,,,
 reengageAdClicked,,reengageAdClickedStep,,,0,,,image_quest_03.png,,reengageEliteAccountTime,0,,,,0,0,0,0,,,,,,,
-questHavePurpleDragon,level999,questHavePurpleDragonStep,,Earn an android exclusive rare purple dragon,0,,,image_quest_03.png,,androidExclusive,1,,,,1000,1,1,0,Breed a purple dragon to earn android exclusive dragon,,,,,,
-androidDragonReceived,questHavePurpleDragon,androidDragonReceivedStep,,,0,,,image_quest_03.png,,androidExclusive,0,,,,0,0,0,0,,0,,,,,
+questHavePurpleDragon,level05,questHavePurpleDragonStep,,Earn an android exclusive rare purple dragon,0,,,image_quest_03.png,,androidExclusive,1,,,,1000,1,1,0,Breed a purple dragon to earn android exclusive dragon,,,,,,
+androidDragonReceived,questHavePurpleDragon,androidDragonReceivedStep,,,0,,,image_quest_03.png,,,0,,,,0,0,0,0,,0,,,,,
 marchGoldDragonBreed,level06,marchGoldDragonStep,,,0,,,image_quest_03.png,,,0,,,,0,0,0,1,,,,,,,
 aprilGoldDragonBreed,aprilBlueExpert,aprilGoldDragonStep,,,0,,,image_quest_03.png,,,0,,,,0,0,0,1,,,,,,,
 aprilOrmarrAchievement,level06,aprilOrmarrAchievementStep,,,0,,,image_quest_03.png,,,0,,,,0,0,0,1,,,,,,,
@@ -2540,7 +2540,7 @@ serverOnlyPortraitAchievementDungeonFirstEventCelestialT1,,serverOnlyPortraitAch
 serverOnlyPortraitAchievementDungeonFirstEventCorruptedCelestialT1,,serverOnlyPortraitAchievementDungeonFirstEventCorruptedCelestialT1Step,,Rewarded for completing Tier 20 of the 1st Dungeon event.,,,,image_quest_03.png,,,0,,,,0,0,0,0,Win through donating to Stack Up,,,,,,
 serverOnlyPortraitSummit2019FemalePortraitT1,,serverOnlyPortraitSummit2019FemalePortraitT1Step,,Win through Summit '19 Events,,,,image_quest_03.png,,,0,,,,0,0,0,0,Win through Summit '19 Events,,,,,,
 serverOnlyPortraitSummit2019MalePortraitT1,,serverOnlyPortraitSummit2019MalePortraitT1Step,,Win through Summit '19 Events,,,,image_quest_03.png,,,0,,,,0,0,0,0,Win through Summit '19 Events,,,,,,
-haveTier16Legendary,,haveLegendaryT16DragonStep,,Have Bred a Legendary Dragon from an Upcoming Tier,,,,image_quest_03.png,,,,,,,,,,,,,,,,,
+haveTier16Legendary,,haveLegendaryT16DragonStep,,Breed a Legendary Dragon from Eldritch Tier,,,,image_quest_03.png,,,0,,,,0,0,0,0,For Eldritch Lineage Tier,,,,,,
 serverOnlyPortraitDragonTamerT1A,,serverOnlyPortraitDragonTamerT1AStep,,Win through Winter '20 Events,,,,image_quest_03.png,,,0,,,,0,0,0,0,Win through Winter '20 Events,,,,,,
 serverOnlyPortraitDragonTamerT1B,,serverOnlyPortraitDragonTamerT1BStep,,Win through Winter '20 Events,,,,image_quest_03.png,,,0,,,,0,0,0,0,Win through Winter '20 Events,,,,,,
 serverOnlyPortraitDragonTamerT2A,,serverOnlyPortraitDragonTamerT2AStep,,Win through Winter '20 Events,,,,image_quest_03.png,,,0,,,,0,0,0,0,Win through Winter '20 Events,,,,,,
@@ -2593,4 +2593,4 @@ serverOnlyPortraitMackenzieT2A,,serverOnlyPortraitMackenzieT2AStep,,Win through 
 serverOnlyPortraitMackenzieT2B,,serverOnlyPortraitMackenzieT2BStep,,Win through Winter '20 Events,,,,image_quest_03.png,,,0,,,,0,0,0,0,Win through Winter '20 Events,,,,,,
 serverOnlyPortraitMackenzieT3A,,serverOnlyPortraitMackenzieT3AStep,,Win through Winter '20 Events,,,,image_quest_03.png,,,0,,,,0,0,0,0,Win through Winter '20 Events,,,,,,
 serverOnlyPortraitMackenzieT3B,,serverOnlyPortraitMackenzieT3BStep,,Win through Winter '20 Events,,,,image_quest_03.png,,,0,,,,0,0,0,0,Win through Winter '20 Events,,,,,,
-serverOnlyPortraitMackenzieT4,,serverOnlyPortraitMackenzieT4Step,,Win through Winter '20 Events,,,,image_quest_03.png,,,0,,,,0,0,0,0,Win through Winter '20 Events,,,,,,!@#ljkhcgdpmigjogfl
+serverOnlyPortraitMackenzieT4,,serverOnlyPortraitMackenzieT4Step,,Win through Winter '20 Events,,,,image_quest_03.png,,,0,,,,0,0,0,0,Win through Winter '20 Events,,,,,,!@#phnikpgepoecdiba!@#bndcbmfjlingbiif

@@ -12,4 +12,5 @@ whiteSummonDragon1,whiteSummonDragon,1,100,summonDragon,1,25,300,1.5,0.5,0.016,0
 hellspawn1,hellspawn,1,100,summonDemonDragon,1,25,300,1.5,0.8,0.0192,0.8,
 summonWaterSpirit1,summonWaterSpirit,1,100,summonWaterSpirit,1,25,200,1.5,0.8,0.04,0.6,
 summonSwarm1,summonSwarm,1,100,summonSwarm,1,25,100,1.5,0.7,0.04,0.6,
-holidayHelper1,holidayHelper,1,100,holidayHelper,1,25,100,1.5,0.7,0.025,0.8,!@#efjnhoeodpnkgdhl
+holidayHelper1,holidayHelper,1,100,holidayHelper,1,25,100,1.5,0.7,0.025,0.8,
+summonDrone1,summonDrone,1,100,summonDrone,1,25,0,1.5,0.7,0,0.9,!@#goabioohfekamdbe

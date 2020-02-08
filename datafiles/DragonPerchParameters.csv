@@ -27,11 +27,11 @@ dragonDenDeniedSwapPrompt,,You can't change the status of a dragon that's on per
 dragonHealingPrompt,,Heal your dragon before placing into Perch,
 perchDragonSwitchToRoster,,Are you sure you want to switch the Perch Dragon to Roster?,
 dragonCannotPlaceIntoDragonPrompt,,We will support this Dragon soon,
-dragonRarityAndTierMultiplier0,red:0.409|purple:0.691|blue:0.699|orange:0.689|green:0|gold:0|platinum:0|sapphire:0|garnet:0|emerald:0|obsidian:0|harbinger:0|vanguard:0|empyrean:0|abyssal:0,,
-dragonRarityAndTierMultiplier3,red:0.309|purple:0.554|blue:0.594|orange:0.554|green:0.675|gold:0.677|platinum:0.331|sapphire:0|garnet:0|emerald:0|obsidian:0|harbinger:0|vanguard:0|empyrean:0|abyssal:0,,
-dragonRarityAndTierMultiplier4,red:0.217|purple:0.363|blue:0.427|orange:0.405|green:0.446|gold:0.287|platinum:0.231|sapphire:0|garnet:0|emerald:0|obsidian:0|harbinger:0|vanguard:0|empyrean:0|abyssal:0,,
-dragonRarityAndTierMultiplier5,red:0.217|purple:0.363|blue:0.427|orange:0.216|green:0.236|gold:0.219|platinum:0.193|sapphire:0.132|garnet:0.12|emerald:0.12|obsidian:0.12|harbinger:0.12|vanguard:0.1|empyrean:0.1|abyssal:0.1,,
-dragonRarityAndTierMultiplier6,red:0.217|purple:0.363|blue:0.427|orange:0.216|green:0.236|gold:0.219|platinum:0.193|sapphire:0.135|garnet:0.12|emerald:0.12|obsidian:0.12|harbinger:0.12|vanguard:0.1|empyrean:0.1|abyssal:0.1,,
+dragonRarityAndTierMultiplier0,red:0.409|purple:0.691|blue:0.699|orange:0.689|green:0|gold:0|platinum:0|sapphire:0|garnet:0|emerald:0|obsidian:0|harbinger:0|vanguard:0|empyrean:0|abyssal:0|eldritch:0,,
+dragonRarityAndTierMultiplier3,red:0.309|purple:0.554|blue:0.594|orange:0.554|green:0.675|gold:0.677|platinum:0.331|sapphire:0|garnet:0|emerald:0|obsidian:0|harbinger:0|vanguard:0|empyrean:0|abyssal:0|eldritch:0,,
+dragonRarityAndTierMultiplier4,red:0.217|purple:0.363|blue:0.427|orange:0.405|green:0.446|gold:0.287|platinum:0.231|sapphire:0|garnet:0|emerald:0|obsidian:0|harbinger:0|vanguard:0|empyrean:0|abyssal:0|eldritch:0,,
+dragonRarityAndTierMultiplier5,red:0.217|purple:0.363|blue:0.427|orange:0.216|green:0.236|gold:0.219|platinum:0.193|sapphire:0.135|garnet:0.12|emerald:0.12|obsidian:0.12|harbinger:0.12|vanguard:0.1|empyrean:0.1|abyssal:0.1|eldritch:0.1,,
+dragonRarityAndTierMultiplier6,red:0.217|purple:0.363|blue:0.427|orange:0.216|green:0.236|gold:0.219|platinum:0.193|sapphire:0.135|garnet:0.12|emerald:0.12|obsidian:0.12|harbinger:0.12|vanguard:0.1|empyrean:0.1|abyssal:0.1|eldritch:0.1,,
 evolvePrompt,,Evolving this dragon now will send it back to the Dragon Den. Would you like to continue?,
 evolvePromptTitle,,Warning,
 dragonRiderOnMission,,"Rider is on mission, cannot assign on perch",
@@ -41,4 +41,4 @@ perchBuffsInfoMessage,,"Resource buffs will select the highest buff on the three
 perchResistanceInfoString,,%ld%% %@,
 perchAttackPreviewCircleOpacity,150,,
 perchAttackPreviewiPhoneScale,0.93,,
-unassignLastDragonMessage,,This dragon is the last dragon in your roster. Please add more dragons to your roster in order to assign this dragon to this perch.,!@#oppgbbibonjccdna
+unassignLastDragonMessage,,This dragon is the last dragon in your roster. Please add more dragons to your roster in order to assign this dragon to this perch.,!@#fcickacgnoeibhml

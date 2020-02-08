@@ -391,4 +391,6 @@ tanglingKelp1,tanglingKelp,1,100,freeze,freeze03,80,30,200,0.05,
 synapticWave1,synapticWave,1,100,freeze,freezeSynapticWave,80,50,100,0.05,
 wingGust1,wingGust,1,100,freeze,freezeWingGust,80,0,100,0,
 whiteout1,whiteout,1,100,freeze,freeze03,80,30,200,0.08,
-petrifyingGaze1,petrifyingGaze,1,100,freeze,freeze03,80,50,200,0,!@#bdlpbcbbogmkhnfm
+petrifyingGaze1,petrifyingGaze,1,100,freeze,freeze03,80,50,200,0,
+abominableRoar1,abominableRoar,1,100,freeze,freeze03,80,25,100,0.04,
+crystalize1,crystalize,1,1,freeze,freeze4Seconds,80,150,0,0.12,!@#cpcgfljecepklepc

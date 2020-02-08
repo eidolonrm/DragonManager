@@ -30,4 +30,5 @@ fireLance,,hunter|sorcerer|invoker,Fire Lance is warrior-only because it ramps o
 fireLance|berserk,,,Fire Lance shouldn't mix with other spells that would make attack power excessively high,
 fireLance|frenzySpell,,,Fire Lance shouldn't mix with other spells that would make attack power excessively high,
 fireLance|battlecry,,,Fire Lance shouldn't mix with other spells that would make attack power excessively high,
-fireLance|maleficBreath|shieldAssault|ashenBreath|wintersBite|heatstroke|snowBlind|ectoplasmicBreath|onslaught|miasmicBreath|entropy|evilEye|breathOfTheDrowned,,,Spells that modify flamethrower VFX should not be mixed,!@#pohaikkfeefcdjja
+fireLance|maleficBreath|shieldAssault|ashenBreath|wintersBite|heatstroke|snowBlind|ectoplasmicBreath|onslaught|miasmicBreath|entropy|evilEye|breathOfTheDrowned,,,Spells that modify flamethrower VFX should not be mixed,
+kamikaze,,T16C3ESorcererDragon,"As of 1/2020, this combo can cause a crash when used on a perch.",!@#gaipblcohnbnlogn
